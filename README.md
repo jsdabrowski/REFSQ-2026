@@ -6,14 +6,14 @@ Manjeshwar Aniruddh Mallya, Alessio Ferrari, Mohammad Amin Zadenoori, and Jacek 
 
 ---
 
-### 📦 Overview
+### Overview
 
 This repository contains the artifacts accompanying our REFSQ'26 submission.  
 It includes all experiment notebooks and related references used in our study.
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - **`code/experiments.zip`**  
   Contains Jupyter notebooks for all experiments conducted during the thesis.
@@ -26,7 +26,7 @@ It includes all experiment notebooks and related references used in our study.
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 ### [Experiments]
 
@@ -40,7 +40,7 @@ It includes all experiment notebooks and related references used in our study.
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Python **3.10+**
 - Jupyter Notebook
@@ -48,14 +48,14 @@ It includes all experiment notebooks and related references used in our study.
 
 ---
 
-## 📝 Notes
+## Notes
 
 These materials are provided to support transparency and reproducibility of the experiments described in our REFSQ'26 submission.  
 Please refer to the accompanying paper for detailed methodology and results.
 
 ---
 
-## 🪪 License
+## License
 
 This work is licensed under the **MIT License**.  
 You may view the full license here: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
