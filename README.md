@@ -21,8 +21,8 @@ It includes all experiment notebooks and related references used in our study.
 - **`dataset/dataset.txt`**  
   Provides a reference to the repository of the dataset used in this study.
 
-- **`prompt/prompts.txt`**  
-  Includes example prompts used in the experiments described in the paper.
+- **`prompt/*.pdf`**  
+  Includes example prompts and strategies used in the experiments described in the paper.
 
 - **`readme.txt`**  
   This file (instructions and structure).
