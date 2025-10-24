@@ -57,6 +57,6 @@ Please refer to the accompanying paper for detailed methodology and results.
 
 ## 🪪 License
 
-This work is licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
-You may view the full license here: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+This work is licensed under the **MIT License**.  
+You may view the full license here: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
 
