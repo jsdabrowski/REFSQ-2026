@@ -1,0 +1,512 @@
+'this version crashes all the time', BugReport
+'it take a lot time in loading', BugReport
+'pages freeze often', BugReport
+'still having problems uploading sometimes though', BugReport
+'it wont load any of my notifications when i click on them pictures wont load and my newsfeed wont refresh', BugReport
+'everytime i go on to look at picture nothing shows up just a grey picture', BugReport
+'now it is pointless cant see anything not even e cards', BugReport
+'a lot of errors i cant see pictures fix it please', BugReport
+'wont upload any pictures', BugReport
+'the current fb app is not good at all for tabs with big screen', BugReport
+'the problem is with the way items displaypics are smalllarge empty space etc the display generally not attractive', BugReport
+'not to mention it force closes often', BugReport
+'also every time i open it asks me if i want to search my email to find friends', BugReport
+'now i cannot view any photos', BugReport
+'loading takes time even on 3g con it totaly sucks plz fix it asap', BugReport
+'it told me that it needed an update before i continued using it and now it wont load any pictures ', BugReport
+'dosent load pics now', BugReport
+'said package was invalid  when i tried to download', BugReport
+'how come no matter how many times i select i want the statuses shown by most recent and not top stories it still wants to show them the top stories first', BugReport
+'always crashes pls fix', BugReport
+'either loads slower than molasses or doesnt load at all', BugReport
+'when i open it whether on wifi or not only first couple status load and then nothing', BugReport
+'was working great but now no pictures will open', BugReport
+'then it just endlessly sits on a loading screen', BugReport
+'complete and utter rubbish no access to news feeds messages or notifications for weeks now sort it out', BugReport
+'its superb app there was a problem on loading page  on my samsung galaxy 5830i please solve anybody', BugReport
+'you cant edit your post once you comment and hit send if you comment on someones status and you make an error you cant fix it', BugReport
+'now force closes all the time', BugReport
+'i had to remove all updates because it would never load and could never connect but now that the updates are gone it works perfectly', BugReport
+'no pictures would load and it would take forever for statuses to load', BugReport
+'have to either wait a stupid amount of time for updates or images to load or it just wont work', BugReport
+'i cant download any pic from here', BugReport
+'after the last two updates i can no longer see pictures it does load the feeds quickly but it isnt as good without being able to see all the pix', BugReport
+'when i click it it offs my cellphone or whatever', BugReport
+'slower force closes all the time doesnt load pictures', BugReport
+'i cant post status here', BugReport
+'plz update this version to faster loadingit crashes many times', BugReport
+'all the tym while chatting its going to hang and force stop what yo ra1 yaaar plzzz fix it', BugReport
+'every time i attempt to open it my phone freezes and restarts', BugReport
+'it seems like every update facebook gets the slower it gets', BugReport
+'from when i updated fb app is getting slow and it slow down my system also please release a new update that will over come all poof these', BugReport
+'pictures do not load at all', BugReport
+'the pics on my newsfeed dont show up', BugReport
+'actually no pics show up at all', BugReport
+'now i cant open any links from my phone', BugReport
+'lags constantly news feed loads so terribly slow then a little bo pops up at the top under the status update and whatnot telling me of new posts and once that gthes ten new updates or posts i cannot like comment nor even look a anything else not to mention the pictures dont even load', BugReport
+'freezing up daily horrible app', BugReport
+'im constantly facing unreasonable load times as well as constant freezing issues', BugReport
+'cant update my status im a constant status updater now people are gonna start thinking i fell of this earth bc everytime i update and hit post it acts like its going too then bam nothing', BugReport
+'pictures dont load when your looking through albums', BugReport
+'pictures never load up', BugReport
+'fix the incredibly long download problems for a better ', BugReport
+'when i try to share images directly from fb to whats app or some other app its not sharing some time and some time it works fine', BugReport
+'when it is possible to share images why cant the videos', BugReport
+'loading pictures or comments on pictures or posts either never loads or takes forever', BugReport
+'and sometimes refresh doesnt even work', BugReport
+'its slow it keeps saying its updating and it wont let me see my news feed and when i try and look at my friends pics it just says its loading not to mention it freezes up all the time i dnt like it ', BugReport
+'well it use to be no internet connection problems with my samsung galaxy now its picture problems', BugReport
+'keeps force closing all the time', BugReport
+'stupid app keep refreshing', BugReport
+'force closes constantly will not let me view comments', BugReport
+'my phone is fritzing out since the upgrade', BugReport
+'ive always used facebook movie mobile but lately ive been having problems with my timeline not refreshing with the current update', BugReport
+'when i open a picture in this app it irritates me by opening previously opened picture ', BugReport
+'constantly force closes', BugReport
+'wont load anything when connected to wifi then it started not loading anything at all', BugReport
+'this application was great before the last update when i open a pic it opens a different pic', BugReport
+'since the last update i cant post any status', BugReport
+'always force closes when i try to log in to games thru facebook', BugReport
+'i get a forceclose every other time i open facebook now and its driving me nuts', BugReport
+'then when i reopen it it takes minutes to load everything and the pictures take about 5 minutes longer', BugReport
+'fix this thing no network error  the app es near useless', BugReport
+'so sick and tired of getting network error messages when at the same time facebook web works fine', BugReport
+'i always have to close the app from my multitasking so that the next time i open it it will hopefully load my newsfeed', BugReport
+'pictures and new stories load pretty slowly', BugReport
+'this is constantly having problems loading comments', BugReport
+'news feed shows no pics', BugReport
+'i have installed and  uninstalled this several time to get an up to date time line', BugReport
+'slow rarely loads anything  pages photos comments  nothing constantly crashes', BugReport
+'i cant change my covert photo from my phone  searching for anything is awful i have to type  then delete then retype then it works', BugReport
+'opening app from a notification after its been running in the background for a while results in endless wait loop', BugReport
+'i constantly clear data but it still crashes', BugReport
+'now it wont even load just keeps saying error', BugReport
+'doesnt update correctly freezes a lot', BugReport
+'needs fixed doesnt show the comments or when i chose to look at pictures it doesnt load', BugReport
+'will not load this sucks try again ', BugReport
+'the new update has made it so i continually get network error or no internet connection which is just rubbish', BugReport
+'far too slow never loads  cant see anything  crap any time i refresh it goes straight onto my actual internet ', BugReport
+'it worked perfectly fine for me until yesturday when i was on my laptop and changed my password it logged me off my phone so i logged in with the new password and it kept saying error', BugReport
+'keeps playing up freezing lots of force close coming up come on fb sort it out i use it everyday and everyday i have problems', BugReport
+'now it tells me i have a single signon error which even the great google search has not given me any clues on how to fix', BugReport
+'the only complaint i have is that it has problems loading pics', BugReport
+'the recent update has blank pages now', BugReport
+'i cant see any pictures on my app', BugReport
+'the app runs extremely slow and sometimes not at all on the mobile network', BugReport
+'the problem is it is constantly syncing and that drains battery  uninstall for an hour and you will notice huge increase in battery life', BugReport
+'after auto correct got a word wrong i went back to change it then the app froze', BugReport
+'however recently i have found myself waiting for an eternity to get anything to load properly if it even does', BugReport
+'when trying to watch a youtube video through fb the option to watch through the youtube app is gone', BugReport
+'pretty frustsince it happens every single time i try to watch a posted youtube video', BugReport
+'and lastly its very slow loading and sometimes doesnt load at all', BugReport
+'the update said faster viewing of photos and now i cant see any pics at all not even profile pics', BugReport
+'slow forces close all the time and notifications dont clear from home screen on the phone even when logging off and on again', BugReport
+'takes lot of time to load', BugReport
+'no access to pages', BugReport
+'afterwards photos are just gray squares and they dont always load when clicked on', BugReport
+'now with the newest update i was hoping the problems would be fixed but instead the pictures wont load at all', BugReport
+'it will not let me change my cover photo fix this 5 stars', BugReport
+'message in facebook for android latest version whenever i try to reply to something from a notification also whenever i get this error whatever i had typed in disappears', BugReport
+'lately im constantly getting network error for no reason and constantly error trying to send pics in message', BugReport
+'i have tried about twenty times to get on my fb and it say connection lost when i have five bars', BugReport
+'this was a good app but now it will not show some posts or it will arrange them in any order that it wants ie first post will be from 2 weeks ago the next post will be from a month ago then the next from today', BugReport
+'and on this galaxy note 101 tablet from samsung nothing loads  all i get is network errors even after i tether from my phone  so bullst its my network ', BugReport
+'images take forever to load if at all', BugReport
+'likes and comments dont show up as quickly as they used to', BugReport
+'katana always forces close', BugReport
+'it was always a bit slow and lagging but now i cant load any content or photos at all no matter how many times i force close or restart my 3g', BugReport
+'my normally super fast experia x8 now goes at quarter speed since installing this app', BugReport
+'last update has made the app not load pics or graphics until several seconds sometimes minutes and very often not at all', BugReport
+'half the time when i use facebook it says network error and wont load when i have perfect 4g signal', BugReport
+'i have to force close and try many different times for facebook to even load', BugReport
+'many times hang or stops working', BugReport
+'it freezes goes blank and constantly refreshes', BugReport
+'everything looks nice but when i use the most recent timeline it gives me posts form three weeks ago as most current', BugReport
+'pictures and comments load when they feel like it', BugReport
+'runs fine for a little while then just forcecloses or freezes up', BugReport
+'stop trying to force me to download instagram when i touch an image', BugReport
+'since i updated awhile ago its turned to crap always freezes and never loads', BugReport
+'this apps good but when i open any comment and after back then it is close', BugReport
+'worked fine till the update and now its just slow cant post status and pics', BugReport
+'last update sucks all time crushing', BugReport
+'half the time it dont update and then it crashes or it does not load right has be one a pain in the butt', BugReport
+'will not load pictures on mobile app', BugReport
+'loads slow and it wont show pics ', BugReport
+'since the last update the app constantly closes its self', BugReport
+'recent update has constantly force closed on me', BugReport
+'all i get is a black screen and i let it load for 5 minutes', BugReport
+'keeps hanging when downloading pictures', BugReport
+'there are issues with the photo viewer', BugReport
+'pictures are not coming up', BugReport
+'facebook now routinely keeps showing old posts that i have made at the top of the news feed even when most recent is selected its been happening for the past couple of weeks', BugReport
+'so much problems and also my notefications keep screwing up and idont even get some chat inboxes back irene wasnt like that before until this update', BugReport
+'after upgrading on my phone when i try to get in to fb all i get is a network error', BugReport
+'every single time i open facebook it prompts me to find friends', BugReport
+'if i say dont sync contacts and not now it means i dont want to find any friends', BugReport
+'everytime theres a new update it gets slower then ever', BugReport
+'when ya click on one pic on the news feed it goes 2 a different one its', BugReport
+'i had to uninstall all of the updates and go back to basic facebook since after the last update every time i make a call it causes my phone to go into simode', BugReport
+'now it freezes and then it tells me to force close', BugReport
+'now its slow and its always freezing up', BugReport
+'always crash and the file is too big', BugReport
+'every time i want to post a new status this fb app says i have to check my connection and try again even when i have full signal bars', BugReport
+'slower and no longer to open pictures', BugReport
+'it always says loading when i turn the app on but nothing pops up and with wifi may i add', BugReport
+'force close all the friggin time', BugReport
+'doesnt load photos in news feed at all', BugReport
+'its super slow or it just wont open', BugReport
+'trouble loading pics', BugReport
+'i cannot change my cover photo fix it now', BugReport
+'worked great until i updated now it randomly doesnt load pics  takes forever to upload pics  idk what is going on with it but many times when i get on it will look like everything is working until i click on a like  it will add it but less than a second later remove it', BugReport
+'i have to click several times until it sticks  if ive liked the status before it the screen suddenly skips back to it while removing its like', BugReport
+'need to fix sync bug doesnt sync a single contact crashes all the time uninstalled', BugReport
+'it sux dont work good takes for ever to upload a pic', BugReport
+'im using an older version now that at least loads', BugReport
+'cant view any pictures now', BugReport
+'if you force shut the app after continual crashes it totally shuts down ur cellnet data connection', BugReport
+'when im lucky enough for it to stay open for a little while its pretty slow and has lots of glitches', BugReport
+'and when i try to use emojis in chat facbook crashes  ', BugReport
+'i opened this app this morning and it wont even update', BugReport
+'cant open comments sections at all it takes at least 90 secs to view most of my friends images and list goes on', BugReport
+'now i cant see driends pictures', BugReport
+'loading issues cant find secure connection if i delete a post', BugReport
+'i cant close pictures if i open them', BugReport
+'it wont let me upload photos now', BugReport
+'used to work wonderfully now however it causes me to lose my connection leaving me unable to refresh anything', BugReport
+'finally stepping it up  edit seems since latest update that now images arent always showing up in news feed or when selected', BugReport
+'all i get is connection error  retry even with the strongest mobile internet connection it only connects now and again', BugReport
+'wont open half the time wont update when it does', BugReport
+'plz fix force close ', BugReport
+'overall the app is good apart from every so often when i open an image seems to be liked pages it instantly reverts to the previous image the page has posted and i have to end task as so to speak for it to display the newest image', BugReport
+'one other menial yet anoying problem is that when l zoom into an image while my phone is portrait it automatically zooms back to standard size but in landscape l have no issues', BugReport
+'every time i try and comment i get an error', BugReport
+'when you click on a picture in your news feed it shows a totally different picture', BugReport
+'slow buggy and  doesnt show any pictures', BugReport
+'always sending updates on statuses and pictures', BugReport
+'always network error and wont upload pictures', BugReport
+'never even force closes', BugReport
+'updates for ages sometimes doesnt update at all whenever search for anything or anyone screen goes blank', BugReport
+'everytime i like a status or picture when i refresh i shows that i didnt like it', BugReport
+'mustve switched my phone off and on about 10 times today as this is only way to get it working when it freezes', BugReport
+'every time i tried to give a review it would always come up with an error and id have to retry several times to get it posted', BugReport
+'no matter what the app will not let me reply to anything', BugReport
+'Awesome keyboard just lags with Google takes forever to show up', BugReport
+'Ever since the jellybean update  you have to exit the messaging application and open it up again for word prediction to work', BugReport
+'I find it terribly annoying that now the prediction bar and corrections dont work 50 of the time', BugReport
+'I have to close the keyboard and then reopen for this to work', BugReport
+'After having the language constantly failing to download and now not downloading at all', BugReport
+'But very glitchy on Google chrome keeps typing previous word when pressing the backspace key', BugReport
+'Only problem i have is the exclamation mark', BugReport
+'Very very poor set up  it almost never works when you swipe the multi button', BugReport
+'However following the update on my S3 to Jelly Bean it now reverts to the Samsung keyboard as the default every time I restart the phone', BugReport
+'Keeps rebooting vzw gnex and numerous bug reports and posts left unanswered or even unacknowledged using pay version too', BugReport
+'Update Using on the LG Optimus G and the cursor KEEPS  jumping to the top of the field in the middle of sentences', BugReport
+'Used to be the best keyboard ever since jellybean update now on my GS3 it will not hold as default ', BugReport
+'Was excelbut pasting has recently broken on my Samsung galaxy s3 which is very frust', BugReport
+'I love this keyboard  but I notice a significant decrease in my battery life when I use it', BugReport
+'This app is okay except that the keys are loud when I type so if Im working or hunting I have to change the settings', BugReport
+'And if Im just not finding how to change the setting I apologize but Ive looked everywhere on the phone', BugReport
+'This would have been a 4 star but the inability to hide the com button while in a browser renders it nearly useless Hit it all the time when trying to hit the space bar', BugReport
+'1  The keyboard reverts to the original Android Keyboard every time the USB storage becomes disconnected', BugReport
+'Great in most circumstances but when sending odometer readings via text for tracking purposes theres no reason for it to track it', BugReport
+'If I take the time to manually capitalize letters and add apostrophes etc then swiftkey shouldnt try to change it', BugReport
+'An example is when you type something on Google search app youre abandoned to the slow typing process again', BugReport
+'giving up until they fix predictive text and make keyboard thy doesnt have all th keys basically touching each other', BugReport
+'i have tried to ask if possible to add numbers on top of the keyboard like on Samsung original keyboard and they sent me to write on their blog but no one answer nobody care', BugReport
+'Im using the trial keyboard but cant miss the sale off  buy it and waiting for Vietnamese language', BugReport
+'Have turned off as note ii does not work properly', BugReport
+'If you are not going to fix it then make it assignable to applications so it can be ignored for apps where it doesnt work', BugReport
+'But when I have to put numbers into a password or messaging someone and using numbers the numbers come out jumbled please look into this sent from my gs3', BugReport
+'On occasion the cursor will stop moving beyond the last word so it always appears as if its in the middle of a world no matter what', BugReport
+'The only issue with it is that about 35 of the time the prediction bar does not show upauto correct does not work', BugReport
+'Great app but becomes sluggish every now and then', BugReport
+'Its not a bad keyboard replacement but it insists on putting a space after periods making it a real pain to type URLs into text messages', BugReport
+'But the predictions bar doesnt appear for for the Samsung at all', BugReport
+'And when Im typing rapidly and trying to press the space button It hits the com', BugReport
+'Whenever I try to enter a search term this app seems to stop working all together Why is that', BugReport
+'This keyboard is amazing but the only problem I have with it is that when I use Google drive it slows down and lags SO much', BugReport
+'A ridiculous amount of RAM', BugReport
+'A lot of bugs in connection with hardware keyboards', BugReport
+'The app also has trouble downloading the language packs ', BugReport
+'Now occasionally the text predictions wont come up AT ALL and it seems like words are being put in that I NEVER was attempting to write', BugReport
+'However  every time I close all apps and ram memory and I go on any sort of message board  texting or any type of typing it doesnt automatically pop up with SwiftKey and it shows the regular crappy keyboard', BugReport
+'Suggestion for the developer make that when the hardware is changed you dont loose all that the app has learned', BugReport
+'Most notably Google now its very slow whilst using swiftkey', BugReport
+'With a recent update to Jellybean SwiftKey no longer automatically uses predictions when texting', BugReport
+'I have to back out of every message and go back in before it will start fixing typos or using predictive text', BugReport
+'I was very disappointed that when installing the paid version it did NOT import', BugReport
+'The settings from the trial version and now i am left having to battle the same initial problems when i first inatalled the trial', BugReport
+'Since I updated my S3 to Kelly Bean sometimes SwiftKey is not even activating when I go to text or type', BugReport
+'I have to exit whatever Im doing or send a text or 2 before it will start working but as I said its very inconsistent was never an issue while using with ICS', BugReport
+'I love this keyboard hands down the best one on the market only issue is for some reason when I Im typing fast the keyboard always seems to static like a tv with no service I thought it was my phone but now I have the note 2 n same thing', BugReport
+'I just hate how when I click the 123 icon on the keyboard I hate how the layout looks  im use to the regular S3 keyboard 123456789 on the top', BugReport
+'Great keyboard only issue I have is when my phone wakes into a text it doesnt use prediction so I have to back out and go back in for the prediction to work', BugReport
+'Feeling a small hick when keyboard comes on screen and sometimes it does not work', BugReport
+'Kinda laggy when opening and closing', BugReport
+'Just recently app repeatedly force closes until it is disabled in input settings', BugReport
+'Has a problem remembering simple words', BugReport
+'Sometimes word prediction doesnt show up Have to exit out of keyboard then get back on again for it to appear', BugReport
+'It works great for everything but not so good when add ing non common names', BugReport
+'Frankly some of the predictions are ridiculous you are better off with the normal keyboard', BugReport
+'I recommended it to all of my friends but ever since ics this app has been HORRIBLE', BugReport
+'Only issue found till date is that it crashes often with chrome but that is not a deal breaker for me', BugReport
+'I sure dont mind but at the same time making even speedier and smooth as jelly bean is on my s3 would always be greatly appreciate it', BugReport
+'But after a month of having it it became extremely slow typing on the screen would not happen half the time corrections would not even show up', BugReport
+'But since I root my phone I constantly change roms therefore reseting all my words', BugReport
+'Prediction will sometimes turn off when I sleep the phone', BugReport
+'This work great for a while but now keeps crashing my phone and my phone wont work again until I pull the battery', BugReport
+'When locking the screen while having the text field open and the keyboard out and then unlocking the phone the text field rewrites itself and resizes', BugReport
+'Also there is lag in the keyboard processes when sending and receiving messages', BugReport
+'I would like to see the numbers separately above the the first row of the keys And when on land scape mode it takes up the whole screen and will not show you the text screen', BugReport
+'Nice keyboard but even in its new v3 incarnation theres no dedicated voice key hence losing a star', BugReport
+'Used to work brilliantly with previous android versions but the Swiftkey auto correct function stopped working after using it with Android jelly bean', BugReport
+'As much as is pains me to say this app has been the root of a bunch of problems on my phone Crashes and freezing are all too familiar when this is active', BugReport
+'Often times when I hit the A key I hit the shift key', BugReport
+'My only issue with this and its a SERIOUS issue with me is that since I got the update for my S III to 41 is that I can not find out how to turn off the haptic feedback when I type The phones settings have it turned off but no matter what I do to try and troubleshoot it nothing works', BugReport
+'As mentioned by others Google search has slowed with the keyboard not appearing for several seconds when using this keyboard', BugReport
+'After updating to jb there is no heptic intensity control Its always full blast', BugReport
+'Syncing will be great in background with every time the keyboard shows up and disappears', BugReport
+'Updated to Jelly Bean I have all haptic feedback turned off on my phone but after the update it has been turned back on only using SwiftKey', BugReport
+'My phone stoped responding While using the keyboard seince recent update', BugReport
+'This keyboard was stunning on my old Galaxy Ace2 but I now use Galaxy S3 mini running Jelly Bean 41 and now Swiftkey will not work', BugReport
+'The keyboard refuses to popup when i require to type  in all apps including txt kingsoft office WhatsApp logins etc and I hve to revert to the Samsung keyboard', BugReport
+'Now occasionally the text predictions wont come up AT ALL and it seems like words are being put in that I NEVER was attempting to write', BugReport
+'Also I am not too fond of the fact that when I do spell a word wrong it doesnt automatically insert the correct word', BugReport
+'Now there are 5 croatian letters at most right making all keys unbelievably tiny', BugReport
+'Autocorrect no longer works since they put out swiftkey flow', BugReport
+'It still lags on viber but over all it is amazing but yeah when is SwiftKey Flow coming to this app or making a new one the is the flow version', BugReport
+'The keyboard is now running slow freezes  takes a while to open and close', BugReport
+'Love the keyboard but its really slow now', BugReport
+'since the update when i type it puts random periods and wrong text', BugReport
+'I get an error message when I try to install the language pack that says there is a problem with the network connection make sure your network connection is working then try again', BugReport
+'I think the problem may be that this new version of the Note is running Jelly Bean', BugReport
+'I see that some others running Jelly Bean are also experiencing problems', BugReport
+'The keyboard sometimes have a lag when typing especially on number pad', BugReport
+'Works perfect but for some reason it lags when I exit the typing mode', BugReport
+'Only thing is that if you screw up the last word of a text message and hit send it doesnt fix that last word before sending', BugReport
+'Please make it fix the last word when we hit send', BugReport
+'Thanks forbalways adding words when i hit the space bar and for always learning the wrong way to spell words', BugReport
+'i have to go to the web for that and i cant organize my photos in certain albums only in the web', FeatureRequest
+'i also cant change who views my information and stuff on my wall only in web', FeatureRequest
+'sd card storage need', FeatureRequest
+'it is the only way i can get the pictures people post to reappear on the timeline', FeatureRequest
+'unable to change cover photo no option is available for this', FeatureRequest
+'it wont let me delete comments made by others that i would lik to delete', FeatureRequest
+'why the hell can anyone access my android facebook account just by simply tapping on the sign up for facebook', FeatureRequest
+'you cant even delete comments you would like to remove off your own wall ', FeatureRequest
+'it good app but i cant delete my comment in galaxy y pls update ', FeatureRequest
+'the font size facebook program in samsung galaxy note 101 is too small and do not have function to adjust font sizing', FeatureRequest
+'its good needs to able to change cover photos from my samsung galaxy s3 please next update', FeatureRequest
+'i can post photos but i cant post status update', FeatureRequest
+'please add the option to save photo like in ios', FeatureRequest
+'lacks many features of the regular facebook website and in addition has glitches such as loading the same 10 events one is attending over and over again rather than showing any more and differn events further in the future', FeatureRequest
+'it just needs something like you get to go offline and just read news feeds', FeatureRequest
+'i cannot share the video to some other apps like whats app etc when i can share the images to whats app', FeatureRequest
+'only increase my memory', FeatureRequest
+'i cant view pics that i or other people have just uploaded i can see all or some of the older pics including my timeline  profile pics but none of the new ones', FeatureRequest
+'i also cant see video posts but if i click to on it view i can watch the videos', FeatureRequest
+'i can never upload photos using this app', FeatureRequest
+'i told you that a dozen times already but thanks for the constant popup notification that cant be disabled ever', FeatureRequest
+'it should have multi tabs ', FeatureRequest
+'for me to be able to post a status i need to open a browser', FeatureRequest
+'i use my phone almost  exclusivly to log into fb and not being able to delete or edit comments is unacceptable', FeatureRequest
+'cant turn off location tracking', FeatureRequest
+'my biggest pet peeve is that i cant like', FeatureRequest
+'would be better if it could be moved to sd card', FeatureRequest
+'games cannot link with facebook ', FeatureRequest
+'need ability get to edit or delete comments', FeatureRequest
+'it will be more perfect if it isable to save pic to phone', FeatureRequest
+'if i easy able to see pictures i wouldnt', FeatureRequest
+'ill give you 5 star if it install in sd card its 31 mb and my telephone doesnt have area enough', FeatureRequest
+'i really wish it could move a little faster but at the end of the day i still love facebook', FeatureRequest
+'why cant select and copy the taxes in links', FeatureRequest
+'i want to be able to put pictures in the album i want', FeatureRequest
+'within my friends list i used to be able to filter between peoplepages to view an alphabetical list of either category', FeatureRequest
+'one question just why this app cant  be move to sd card', FeatureRequest
+'I think it could do with a bit more customization', FeatureRequest
+'And a few more settings for example after I insert specific types of punctuation it sometimes put a space afterIt would be good to be able to turn that off', FeatureRequest
+'Also another good one is being able to make the space bar bigger by removing the smiley key on the bottom right making the keyboard bigger', FeatureRequest
+'Very annoying to switch with other input methods', FeatureRequest
+'I love the keyboards and what not it looks so awesome but just need some more themes to choose from or more customization choices', FeatureRequest
+'You need to add something to allow us to edit the prediction word database This way we can manually erase unwanted crap periods  commas', FeatureRequest
+'Great app but without emoji support its only sub par', FeatureRequest
+'Wish I could customize the layout then I would give 5 stars', FeatureRequest
+'I like how you did pumpkin for Halloween can we get a Christmas theme', FeatureRequest
+'Also I should be able to delete typos that have been presumed predictions', FeatureRequest
+'I just need Chinese', FeatureRequest
+'Just wish there were more themes to choose from and that of your backspace from an auto completed word that it would defer to what you originally typed', FeatureRequest
+'Great keyboard and prediction but needs SWIPE function for portrait mode and better customization', FeatureRequest
+'im scared of updating it but its going slow wish me luck ', Other
+'the only pictures i can see are the mini profile pics beside there names on their statuses', Other
+'friend finder needs to go wtf', Other
+'wants access to my photos contacts their birthdays and so much more', Other
+'i gave it 2 stars cuz it loaded', Other
+'can only like things and comment on an existing status', Other
+'i can put certain pictures in certain albums anymore ', Other
+'how can i change my cover pic', Other
+'at least i can see what my family and friends are up to too bad they cant see what im up to', Other
+'waiting thumbnails for minutes still cannot see the photo i want to post', Other
+'at least im not the only one having issues with the new update and the lack of pictures', Other
+'i too can only see text and some thumbnails', Other
+'i dont understand why it needs to access so much stuff from ur phone', Other
+'some things are understandable but others are an invasion of privacy pretty much', Other
+'photos dont load content never loads its show and just never works in general how can a multi billion dollar company have such a crappy app', Other
+'and have a hardtime searching for people', Other
+'i havent been able to update fb on phone for days and on occasion weeeks', Other
+'This app is very good but it can run a little laggy on my GS3', Other
+'this game can be very fun but it takes up so i much of your time taking care of the fish', Other
+'to complete the game will cost u more than 200', Other
+'i want my 20 fish bucks back', Other
+'great but cost too much fish bucks to play', Other
+'fun game i love the variety of fish and decorations but its so easy for your fish to die', Other
+'i enjoy playing tap fish except for how hard it is to get fish bucks', Other
+'this game is really fun i like it exept everything cost too much', Other
+'you cant do much without fish bucks and they cost ', Other
+'stupid game give my more fish bucks', Other
+'i love it but why will they make the decorations and every thing so much you can just get a fish with that money and fish bucks', Other
+'the only thing preventing the fifth star is that some people are able to cheat by rooting their phones and giving themselves unlimited bucks', Other
+'like for eg ive got two coin objectives at the same time so one of them fot stuck and cannot be completed anymore shame', Other
+'only had small issues with game freezing my phone but after uninstall and reinstall it works fine', Other
+'do you know this is the best game of my life and is more chalbut i notice the memory of this game is bigger than subway surfers but this game is cool', Other
+'the thing i didnt like about this was that each tiime i went back on it it had started again as if i was a beginner so thats why i rate it four stars', Other
+'lags too much should not be lagging on a dual core phone', Other
+'the 1mil lifetime coins is also more than halfway done but still its stuck at 3rd of the way  ', Other
+'but objectives are too ridiculous like 1000000 lifetime metres and game bre comes boring i like having achieve able objectives', Other
+'awsm game but it takes too long to reach the destination', Other
+'love it but it have lagss somtetimes', Other
+'will write a longer review on my blog about the app', Other
+'performance is improved but kills battery fast', Other
+'notifications still suck and doesnt show updates properly', Other
+'I go to look at app data and find out it was using 204mb of cache', Other
+'it works very well in my phone but it updates takes my sd card full', Other
+'just to slow all around 2 star app htc rezound', Other
+'It is very very moody sometimes it is very fast and sometimes a pain', Other
+'Number of likes are 98 even if there are 20000 likes', Other
+'Each update becomes increasingly intrusive into your personal life', Other
+'Notifications frequently take me to something irrelevant', Other
+'The app is good  all but some images in my news feed can only be previewed instead of opened', Other
+'almost occupy my whole system memory', Other
+'horrible tos for privacyapp permissions', Other
+'too much crap appearing in my newsfeed', Other
+'nothing to do with internet connection as its fine checking facebook through the web', Other
+'and the new refresh feed is crap js', Other
+'well i had moved it up to 3 stars but im taking back to 1 because pics never load', Other
+'its basically good to use for uploading pics', Other
+'how do you put something as your cover photo and how do you delete your comments ', Other
+'it easy to play but it hard when i log in to play other account', Other
+'you would think fb would have an amazing app with all the fat money they make', Other
+'i dont want to look at the loading icon all day', Other
+'i have 4g and this is so slow updating that i rarely use of', Other
+'every 5th item in my stream is a suggested post or a suggestion to like a page', Other
+'anybody know how to downloadsave a picturephoto with this app', Other
+'like the timeline format but map is terrible', Other
+'privacy policy confusin on purpose im sure', Other
+'takes up 28mb on my phone', Other
+'consumes large space on internal mem', Other
+'I hate the new slide punctuation bar', Other
+'I also dont like that you cant use swear words', Other
+'As it stands too many apps remain unsupported', Other
+'Its useless application with Jelly Bean keyboard', Other
+'Loved Swiftkey3 on my evo hate it on the note', Other
+'Not compatible with jelly bean', Other
+'Resets after boot or restart', Other
+'It feels bad reseting 2000 custom words', Other
+'Suggested words were never accurate either', Other
+'Some of the predictive text functions are annoying but its a good app otherwise', Other
+'Regretably had to uninstall', Other
+'Annoying censorship', Other
+'But why does it take up 27 MB of RAM on my Galaxy Nexus', Other
+'Arabic letters are rather small', Other
+'It also takes a lot of memory', Other
+'this is the best keyboard ever but it eats quite a lot of ram', Other
+'I often find myself accidentally deleting words', Other
+'SmartSpace is terrible unadjustable and too invasive', Other
+'SwiftKey doesnt like the Moto LapDock at all', Other
+'I love this keyboard but since updating to 421 Ive got performance issues', Other
+'Would have been great to receive the incompatibility warning PRIOR to paying', Other
+'Limited dictionary', Other
+'The setup is overly complicated and confusing', Other
+'Eats a ton of RAM', Other
+'Also dont like the numberscharacters panel', Other
+'I love the Nook app', Other
+'Live my Nook Its the best', Other
+'Best reading app by far Love the NOOK reading app on my iPad Thanks for a great reading app', Other
+'I love having my nook on my iPad and I love having so many books always with me ', Other
+'Please read the instructions to make sure your school is on the list for this app It seems like everyone who marked this app poorly because they couldnt log in didnt bother to read the instructions It clearly states your schools system must be enabled for this app to work', Other
+'Requires access to grades and itll get 5 strs in my book', Other
+'Family Guy AND South Park Im lovin this app', Other
+'Great app ', Other
+'A must have best in its class if it had real peers', Other
+'Very satisfied with this app', Other
+'This app is awesome', Other
+'I think its cool', Other
+'Try it for real', Other
+'Deleted in less than 5 minutes', Other
+'Ok I really like this app I just cant find where all of the ringtones are saved to', Other
+'Make my life soooooooo easy', Other
+'Its great But can u put some robert downey jr music ', Other
+'I love these quotes ', Other
+'This app is awesome', Other
+'It works perfect for me', Other
+'Its a totally convenient way to manage your teams All the bad reviews are bogus', Other
+'Addictingand you help Susan G Komen for the cure', Other
+'Im on this app 247', Other
+'I love it access to every', Other
+'Havent been able to open since update Time to remove the garbage', Other
+'Nice', Other
+'Why the bad ratings for one thing This is a great app It deserves 5 stars', Other
+'best browser', Other
+'The best desktop browser translates beautifully to mobile especially with this latest edition', Other
+'Why am I getting ads that pop up', Other
+'With YouTube playing while screens locked', Other
+'With iOS allowing content blocking in Safari and just about every other 3rd party browser offering ad blocking of some type the fact Chrome has no way to block ads puts this browser in an antiquated last place of available browsers on iOS', Other
+'I just want to see you', Other
+'Whose bright idea was it to take the In This Group search option away Why do you hate me that much', Other
+'thats it', Other
+'This company cares nothing about your privacy and will ban and censor you just for having a politically incorrect opinion They allow the NSA to do anything and the company is racist against whites between working to flood the west with savages and refusing to take down antiwhite hate content Then will ban you for statistics and any european heritage pages Zuckerberg is a Jew so it is no surprise', Other
+'Great app  Very addicting', Other
+'Facebook app used 65 of my battery up even though run time was about 40 minutes background 20 screen 20', Other
+'I love everything about Facebook besides the fact that whenever I try to upload photos they will not go to the iOS album instead they go to the mobile uploads album also my iOS album got deleted somehow and I cannot get it back', Other
+'Battery hog Still using web Version is no good as usual Maybe next decade they will get it right', Other
+'Roll out the new update Im waiting to see all the new changes to the app', Other
+'Im sick of the ads', Other
+'Waste of time', Other
+'Countless reviews and nothing gets done Facebook is managed by a greedy company and this app is a reflection of that', Other
+'This app can easily cut your battery life in half', Other
+'Tremendous app to connect with friends', Other
+'I no longer know how to copy links or share in messenger after the update I keep pressing share and it wants to do a direct share in a post', Other
+'Review iphone', Other
+'By FAR the most unstable app Ive ever used And no thats not hyperbole ', Other
+'I dont feel comfortable uploading my ID on Facebook and it seems I cant access the app without it', Other
+'One thing that really bugs me is how after watching a video it automatically scrolls down and starts playing the next one  Why I dont understand why you dont give us a couple seconds to close out because I clearly dont want to watch some random video or ad underneath the one thing I wanted to watch Makes it really annoying to use this app to watch videos', Other
+'It is 3 hours off', Other
+'Facebook is down', Other
+'I currently have an IPhone 6 that is fully updated why dont I have live yet  Plus I had this phone for over a month', Other
+'You can post anything you want and make any group you want as long as they approve of it if not well', Other
+'Too many haters', Other
+'Facebook app  battery drain', Other
+'Facebook profiles have changed on the mobile app and the place where you can add a description of yourself is disabled Whats up with that', Other
+'My iPads battery drains fasters and faster until a full charge only gives me 4 hours of play I planned on replacing the battery until I read somewhere that the Facebook apps drains battery so I d', Other
+'Jawbone is way more accurate step and sleep tracking and way better app', Other
+'Using Fitbit charge and using the app are totally motivating me on walking more and eating better Two thumbs up', Other
+'The best ever keeps me honest and in tune with my body', Other
+'Love the ease of Fitbit  so light to wear  very motivating  my best friend gave it to me as a gift', Other
+'Im really enjoying my Fitbit HR and the app It really keeps me accountable The steps part doesnt seem to work well though b', Other
+'This little app is very useful  really love it', Other
+'Enjoying the app and tracking and I get notifications and encouragement along the way', Other
+'My new Fitbit is so amazing It keeps track of calories what ive ate during the day my step and my goals by far one of the best device Ive ever owned', Other
+'Great app', Other
+'I really like the Fitbit It keeps me motivated', Other
+'Great product wish I can swim with it', Other
+'Awesome', Other
+'Im absolutely loving this I can check my status and improve my distance Its helping me to reach my goal', Other
+'Love the new app Really motivates you to be more active', Other
+'Bought a Fitbit HR Activity yesterday at my Weight Watchers meeting  Purposely got it because it could sync with the Weight Watchers app  Followed instructions on Fitbit app  Showed Weight Watchers was one that you could sync but when I tried it said Fitbit does not sync with Weight Watchers  I returned it today and would not buy another Fitbit product', Other
+'App easy to use   Fitbit HR monitoring was spot on after 40 mins on elliptical and wrist covered in sweat it matched my carotid pulse', Other
+'I really like this app It has very good features and keeps you on track for your health goals Easy to track food and water as well in addition to exercise It also syncs great with my Fitbit quickly  I would highly recommend it', Other
+'I am really enjoying my Fitbit flex I wanted them all and chose this one', Other
+'Great app works perfect', Other
+'I love it I feel so much more motivated to do excercie each day', Other
+'Great tool if you need some motivation Love it on many levels', Other
+'Dont get me wrong I love Fitbit Its just that there is a limit to how many challenges you can join at one time And that is too bad', Other
+'Keeps you motivated to do more', Other
