@@ -33,13 +33,10 @@ It includes all experiment notebooks and related references used in our study.
 
 ### [Experiments]
 
-1. Extract `experiments.zip`.
-2. Open and run the Jupyter notebooks in the following order:
-   1. `01_data_preparation.ipynb`  
-   2. `02_classification_experiments.ipynb`  
-   3. `03_nfr_analysis.ipynb`  
-   4. `04_srs_generation.ipynb`
-3. Results will be saved automatically under the `results/` directory.
+1. Download the referenced dataset.  
+2. Download the Jupyter notebooks containing the specific experiment source code.  
+3. Open and run one of the Jupyter notebooks to execute the desired experiment.  
+4. The results will be saved automatically in the `results/` directory.
 
 ---
 
