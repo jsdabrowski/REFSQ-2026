@@ -1,4 +1,4 @@
-# REFSQ'26 Submission  
+# REFSQ'26 Submission (in review) 
 ## From Online User Feedback to Requirements: Evaluating Large Language Models for Classification and Specification Tasks
 
 **Authors:**  
@@ -15,11 +15,14 @@ It includes all experiment notebooks and related references used in our study.
 
 ## Files Included
 
-- **`code/experiments.zip`**  
-  Contains Jupyter notebooks for all experiments conducted during the thesis.
+- **`code/*.ipynb`**  
+  Contains Jupyter notebooks for all experiments presented in the paper.
 
 - **`dataset/dataset.txt`**  
-  Provides a reference to the publication repository containing the dataset used in our study.
+  Provides a reference to the repository of the dataset used in this study.
+
+- **`prompts/prompts.txt`**  
+  Includes example prompts used in the experiments described in the paper.
 
 - **`readme.txt`**  
   This file (instructions and structure).
