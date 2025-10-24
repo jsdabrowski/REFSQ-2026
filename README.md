@@ -15,7 +15,7 @@ It includes all experiment notebooks and related references used in our study.
 
 ## Files Included
 
-- **`code/*.ipynb`**  
+- **`code/<experiment>/*.ipynb`**  
   Contains Jupyter notebooks for all experiments presented in the paper.
 
 - **`dataset/dataset.txt`**  
