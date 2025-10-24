@@ -1,0 +1,13 @@
+We include here references to datasets constructed in related work that were used in our study.
+We identified these datasets from a repository sharing replication packages for studies on app review analysis in software engineering: J. Dąbrowski, "Analysing App Reviews for Software Engineering: A Systematic Literature Review", EMSE 2022.
+
+1) User Request Dataset
+Paper: Jha and Mahmoud, "Using Frame Semantics for Classifying and Summarizing Application Store Reviews", EMSE 2018
+Description: Includes app reviews annotated by type of user feedback (feature requests, bug reports, and others).
+Link: http://seel.cse.lsu.edu/data/emse18.zip
+
+
+2) NFRs Dataset
+Paper: Lu and Liang, "Automatic Classification of Non-Functional Requirements from Augmented App User Reviews", EASE 2017
+Description: Contains app reviews labeled with functional and non-functional requirements (e.g., usability, performance).
+Link: https://www.dropbox.com/sh/05mteyyo7uj4w0n/AAAgKbottac7YchpH3qidPUXa?dl=0
