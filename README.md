@@ -15,10 +15,10 @@ It includes all experiment notebooks and related references used in our study.
 
 ## 📁 Files Included
 
-- **`experiments.zip`**  
+- **`code/experiments.zip`**  
   Contains Jupyter notebooks for all experiments conducted during the thesis.
 
-- **`dataset.txt`**  
+- **`dataset/dataset.txt`**  
   Provides a reference to the publication repository containing the dataset used in our study.
 
 - **`readme.txt`**  
